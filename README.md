@@ -1,1 +1,1 @@
-scane your jpg and make pdf
+scan your jpg and make pdf
